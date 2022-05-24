@@ -2,7 +2,7 @@
 
 1. First install the next.js app:
 ```
-npx --use-npm create-next-app@latest testing-forms
+npx create-next-app@latest --use-npm testing-forms
 ```
 
 2. Clean out the index.js file (including the imports at the top of the file).
