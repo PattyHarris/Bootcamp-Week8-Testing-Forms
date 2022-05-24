@@ -29,7 +29,7 @@ export default function Form() {
 }
 ```
 
-5.  Add the 'form'' that includes a simple 'input' field and 'onChange' event handler - this updates the 'username' via the useState hook.
+5.  Add the 'form' that includes a simple 'input' field and 'onChange' event handler - this updates the 'username' via the useState hook.
 
 6. Add the submit handler which does a POST to /api/form.  Note that the code includes a JSON response handler that is supposed to be removed - the endpoint that is added next does return JSON.
 
